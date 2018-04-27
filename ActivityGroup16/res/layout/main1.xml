@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+ android:background="#ff0000" 
+  >
+    <TextView android:text="in main1.xml 01" 
+    android:textSize="30dp"
+    android:textColor="#fef009"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 02" 
+    android:textSize="30dp"
+    android:textColor="#fef008"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+     
+    <TextView android:text="in main1.xml 03" 
+    android:textSize="30dp"
+    android:textColor="#fef007"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 04" 
+    android:textSize="30dp"
+    android:textColor="#fef006"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	
+    <TextView android:text="in main1.xml 05" 
+    android:textSize="30dp"
+    android:textColor="#fef005"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 06" 
+    android:textSize="30dp"
+    android:textColor="#fef004"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	
+	 <TextView android:text="in main1.xml 01" 
+    android:textSize="30dp"
+    android:textColor="#fef009"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 02" 
+    android:textSize="30dp"
+    android:textColor="#fef008"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+     
+    <TextView android:text="in main1.xml 03" 
+    android:textSize="30dp"
+    android:textColor="#fef007"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 04" 
+    android:textSize="30dp"
+    android:textColor="#fef006"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	
+    <TextView android:text="in main1.xml 05" 
+    android:textSize="30dp"
+    android:textColor="#fef005"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 06" 
+    android:textSize="30dp"
+    android:textColor="#fef004"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	
+	 <TextView android:text="in main1.xml 01" 
+    android:textSize="30dp"
+    android:textColor="#fef009"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 02" 
+    android:textSize="30dp"
+    android:textColor="#fef008"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+     
+    <TextView android:text="in main1.xml 03" 
+    android:textSize="30dp"
+    android:textColor="#fef007"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 04" 
+    android:textSize="30dp"
+    android:textColor="#fef006"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	
+    <TextView android:text="in main1.xml 05" 
+    android:textSize="30dp"
+    android:textColor="#fef005"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+   <TextView android:text="in main1.xml 06" 
+    android:textSize="30dp"
+    android:textColor="#fef004"
+    android:layout_gravity="center"
+    android:id="@+id/textView1"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+</LinearLayout>
